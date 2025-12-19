@@ -3,6 +3,7 @@ mask.apple-dns.net
 captive-cidr.origin-apple.com.akadns.net
 mask-h2.icloud.com
 mask.icloud.com
+mask.apple-dns.net
 one.one.one.one
 gateway.fe2.apple-dns.net
 paydns.weixin.qq.com
